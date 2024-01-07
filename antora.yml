@@ -1,0 +1,6 @@
+name: docs1
+title: Docs1 repository
+version: ~
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc
