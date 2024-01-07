@@ -1,1 +1,1 @@
-* xref::docs2:index.adoc[Introduction docs2]
+* xref::index.adoc[Introduction docs2]
