@@ -1,6 +1,6 @@
 name: docs2
 title: Docs2 repository documentation
 version: ~
-start_page: index.adoc
+start_page: petstore.adoc
 nav:
 - modules/ROOT/nav.adoc
