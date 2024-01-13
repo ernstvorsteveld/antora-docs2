@@ -4,7 +4,7 @@
     <redoc id='redoc-container'></redoc>
     <script src="https://cdn.jsdelivr.net/npm/redoc@2.0.0-rc.64/bundles/redoc.standalone.js"></script>
     <script>
-        Redoc.init('./_attachments/petstore.yaml',
+        Redoc.init('file:///Users/ernstvorsteveld/git/antora/site/build/site/docs2/_attachments/petstore.yaml',
         {scrollYOffset: '.toolbar'},
         document.getElementById('redoc-container'))
     </script>
