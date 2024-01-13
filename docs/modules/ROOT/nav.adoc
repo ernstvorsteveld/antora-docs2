@@ -1,1 +1,1 @@
-* xref:ROOT:index.adoc[Petstore]
+* xref:ROOT:petstore.adoc[Petstore]
